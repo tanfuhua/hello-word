@@ -18,3 +18,5 @@ branch no1:modify --amend
 branch no1_1:modify
 
 branch no1_1:modify
+
+branch no1_1:modify
