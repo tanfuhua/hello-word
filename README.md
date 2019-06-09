@@ -6,3 +6,5 @@ branch no1:modify
 branch no1:modify
 
 branch no1:modify
+
+branch no1:modify(git rebase)
